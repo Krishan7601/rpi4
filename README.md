@@ -39,11 +39,11 @@ Verify Installation:
 Install SFTP Application: https://winscp.net/eng/index.php  
 
 Note: Apache2 Default Page is stored in `/var/www/html`  
-- Add access rights to directory: 
-`sudo chown <username> /var/www/html`
-`sudo chgrp <username> /var/www/html`  
-`ln -s /var/www/html /home/pi/html`
-  
+- Add access rights to directory:  
+`sudo chown <username> /var/www/html`  
+`sudo chgrp <username> /var/www/html`    
+`ln -s /var/www/html /home/pi/html`  
+    
  Copy HTML files to `/home/pi/html`  
  
   
