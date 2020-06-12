@@ -25,11 +25,11 @@ Configure RPi:
 
 Reconnect to RPi:  
 'sudo apt-get update'  
-'sudo apt-get upgrade'  
+'sudo apt-get upgrade'
 
 ## Create Server
 Install Packages:  
-'sudo apt-get install apache2 php5 mysql-server mysql-client
+'sudo apt-get install apache2 php5 mysql-server mysql-client'
 - Set up MySQL Username/Password  
   
 Verify Installation:
@@ -44,6 +44,6 @@ Note: Apache2 Default Page is stored in '/var/www/html'
 'sudo chgrp <username> /var/www/html'  
 'ln -s /var/www/html /home/pi/html'  
   
- Copy HTML files to /home/pi/html
+ Copy HTML files to '/home/pi/html'
  
   
