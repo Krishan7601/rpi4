@@ -30,4 +30,6 @@ Reconnect to RPi:
 # Docker Configuation Stack
 https://www.youtube.com/watch?v=a6mjt8tWUws&feature=youtu.be
  
-  
+# PiVPN
+https://www.pivpn.io/
+`curl -L https://install.pivpn.io | bash`
